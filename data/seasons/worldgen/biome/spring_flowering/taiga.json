@@ -18,7 +18,8 @@
     "water_color": 4159204,
     "water_fog_color": 329011,
     "grass_color": 9877397,
-    "foliage_color": 16747695
+    "foliage_color": 16747695,
+    "dry_foliage_color": 15445613
   },
   "features": [
     [],
@@ -79,8 +80,9 @@
       "minecraft:patch_grass_taiga_2",
       "minecraft:brown_mushroom_taiga",
       "minecraft:red_mushroom_taiga",
-      "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
+      "minecraft:patch_sugar_cane",
+      "minecraft:patch_firefly_bush_near_water",
       "minecraft:patch_berry_common"
     ],
     [

@@ -29,7 +29,8 @@
     "water_color": 4159204,
     "water_fog_color": 329011,
     "grass_color": 9812113,
-    "foliage_color": 9500289
+    "foliage_color": 9500289,
+    "dry_foliage_color": 15576169
   },
   "features": [
     [],
@@ -94,8 +95,9 @@
       "minecraft:red_mushroom_old_growth",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
+      "minecraft:patch_sugar_cane",
+      "minecraft:patch_firefly_bush_near_water",
       "minecraft:patch_berry_common"
     ],
     [

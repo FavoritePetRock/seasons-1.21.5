@@ -29,7 +29,8 @@
     "water_color": 937679,
     "water_fog_color": 329011,
     "grass_color": 11185809,
-    "foliage_color": 8400936
+    "foliage_color": 8400936,
+    "dry_foliage_color": 10580296
   },
   "features": [
     [],
@@ -88,9 +89,10 @@
     [
       "minecraft:glow_lichen",
       "minecraft:patch_tall_grass_2",
-      "minecraft:patch_grass_plain",
+      "minecraft:patch_grass_meadow",
       "minecraft:flower_meadow",
-      "minecraft:trees_meadow"
+      "minecraft:trees_meadow",
+      "minecraft:wildflowers_meadow"
     ],
     [
       "minecraft:freeze_top_layer"
